@@ -1,0 +1,2 @@
+#
+* Copyright © Name and Frenchcord
